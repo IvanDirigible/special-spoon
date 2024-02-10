@@ -60,7 +60,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Links
 
 * GitHub: https://github.com/IvanDirigible/special-spoon
-* Deployed: 
+* Deployed: https://special-spoon-1d4f58be4218.herokuapp.com/
 
 ## Mock-Up
 
